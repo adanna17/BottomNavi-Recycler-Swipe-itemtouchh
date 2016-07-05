@@ -1,0 +1,1 @@
+# BottomNavi-Recycler-Swipe-itemtouchh
